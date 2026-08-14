@@ -1,0 +1,7 @@
+.venv/
+data/
+certs/
+config.toml
+*.log
+__pycache__/
+.pytest_cache/

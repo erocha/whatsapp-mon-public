@@ -1,0 +1,41 @@
+# Dados e credenciais sensíveis
+*.db
+*.db-wal
+*.db-shm
+*.crypt*
+*.key
+*.pem
+*.pfx
+*.p12
+*.vcf
+*.vcard
+*.csv
+config.toml
+config.local.psd1
+
+# Dados locais do WhatsApp
+Media/
+Databases/
+Backups/
+data/
+certs/
+local-work/
+
+# Ferramentas e projetos de terceiros
+.android-adb/
+.tools/
+web-apps/WhatsApp-Chat-Exporter/
+
+# Ambientes e caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+*.log
+
+# Sistema e editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,6 @@
+msgstore = "D:\\WhatsApp-Backup\\WhatsApp\\Databases\\msgstore.db"
+contacts = "D:\\WhatsApp-Backup\\WhatsApp\\Backups\\wa.db"
+media = "D:\\WhatsApp-Backup\\WhatsApp\\Media"
+data_dir = "data"
+host = "127.0.0.1"
+port = 8765
