@@ -19,6 +19,7 @@ O projeto ativo é o visualizador local em `web-apps/whatsapp-viewer`. Ele consu
 - O painel de contato mostra miniatura histórica disponível, telefone, JID, mídias e grupos em comum.
 - Imagens das mensagens e do painel de contato abrem em visualizador local de tela cheia por clique ou toque.
 - Planos e status: consulte `plan/`. Especificações: consulte `specs/`. Instruções aos agentes: consulte `CLAUDE.md`.
+- O histórico Git foi sanitizado para remover caminhos, estatísticas e metadados pessoais. O repositório público `erocha/whatsapp-mon-public` usa AGPL-3.0 e recebe apenas arquivos genéricos; configurações locais permanecem ignoradas.
 
 ## Arquitetura anterior — substituída
 
